@@ -14,5 +14,5 @@ Contributors:
 * Corey Hardesty 
 * Yianni Mercer 
 * Justus Sabik
-* 
+
 ![Jordan Bickelhaupt](https://user-images.githubusercontent.com/73396393/122985204-83b78e80-d363-11eb-9d75-09802d9de67a.jpg)
