@@ -14,8 +14,5 @@ Contributors:
 * Corey Hardesty 
 * Yianni Mercer 
 * Justus Sabik
-![Justus Sabik](https://user-images.githubusercontent.com/73396393/122985195-80240780-d363-11eb-8499-44e71c06fdb9.jpg)
-![Yianni Mercer](https://user-images.githubusercontent.com/73396393/122985196-81553480-d363-11eb-9b84-b9b7ee59b39f.jpg)
-![Corey Hardesty](https://user-images.githubusercontent.com/73396393/122985200-82866180-d363-11eb-867c-ff547459b967.jpg)
-![Jack Dulla](https://user-images.githubusercontent.com/73396393/122985202-831ef800-d363-11eb-9de2-730bfd5fdf5b.jpg)
+* 
 ![Jordan Bickelhaupt](https://user-images.githubusercontent.com/73396393/122985204-83b78e80-d363-11eb-9d75-09802d9de67a.jpg)
