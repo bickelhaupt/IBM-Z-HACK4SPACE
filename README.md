@@ -1,5 +1,4 @@
 
-![Areeb Abubaker](https://user-images.githubusercontent.com/73396393/122985198-81edcb00-d363-11eb-8c46-be8d4cac4f9a.jpg)
 
 <h1>The Marine Ecosystem Reliance on Water Quality</h1> 
 https://tinyurl.com/hack4space-water-quality-2021 \
@@ -9,7 +8,7 @@ In this project we decided to use datasets provided by NASA and use some machine
 \
 Contributors:
 
-* _**Areeb Abubaker**_ 
+* Areeb Abubaker 
 * Jordan Bickelhaupt 
 * Jack Dulla 
 * Corey Hardesty 
